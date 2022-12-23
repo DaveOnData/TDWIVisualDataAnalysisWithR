@@ -1,2 +1,4 @@
-# TDWIVisualDataAnalysisWithR
-Repository for the TDWI 1-Day course "Visual Data Analysis with R"
+# TDWIMachineLearningMadeEasy
+Repository for the TDWI 1-Day course, "Machine Learning Made Easy"
+
+Detailed instructions for laptop prepartion are available in the `LaptopPrepVisualDataAnalysisWithR.pdf` file.
